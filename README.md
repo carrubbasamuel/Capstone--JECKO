@@ -1,4 +1,7 @@
 JECKO
+
+### Deploy del sito: https://jecko.netlify.app
+
 ## Presentazione del Progetto:
 Il progetto è un'applicazione web sviluppata con React, Redux Toolkit, Bootstrap (frontend) e Express con MongoDB (back-end). L'obiettivo principale è creare un'app in grado 
 di geolocalizzare gli utenti e mostrare i campi pubblici di basket e calcio nelle vicinanze. 
