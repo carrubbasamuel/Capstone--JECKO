@@ -1,8 +1,5 @@
 JECKO
 
-FRONTEND SU BRANCH FRONTEND
-
-BACKEND SU BRANCH BACKEND
 
 ### Deploy del sito: https://jecko.netlify.app
 
