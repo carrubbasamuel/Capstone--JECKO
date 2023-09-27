@@ -1,10 +1,14 @@
 JECKO
 
+FRONTEND SU BRANCH FRONTEND
+
+BACKEND SU BRANCH BACKEND
+
 ### Deploy del sito: https://jecko.netlify.app
 
 ## Presentazione del Progetto:
 Il progetto è un'applicazione web sviluppata con React, Redux Toolkit, Bootstrap (frontend) e Express con MongoDB (back-end). L'obiettivo principale è creare un'app in grado 
-di geolocalizzare gli utenti e mostrare i campi pubblici di basket e calcio nelle vicinanze. 
+di geolocalizzare gli utenti e mostrare i campi pubblici di basket nelle vicinanze. 
 Gli utenti possono creare eventi su questi campi, rappresentati da bandierine sulla 
 mappa, dove possono organizzare partite in un determinato periodo di tempo. Altri 
 utenti possono unirsi agli eventi fino a raggiungere un numero limite di partecipanti, a 
@@ -18,8 +22,8 @@ mappa. I marcatori dinamici forniscono informazioni dettagliate sui campi
 disponibili.
 
 • Creazione di Eventi e Gestione: Gli utenti possono facilmente creare eventi 
-sportivi su campi specifici, con la possibilità di specificare sport (basket o calcio), 
-data, orario e numero massimo di partecipanti. L'integrazione con MongoDB 
+sportivi su campi specifici, 
+data e ora di quando si svolgerà l'evento. L'integrazione con MongoDB 
 consente la memorizzazione efficiente delle informazioni sugli eventi.
 
 • Partecipazione agli Eventi: Gli utenti possono unirsi agli eventi creati da altri 
