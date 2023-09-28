@@ -1,5 +1,7 @@
 JECKO
 
+###Link al Backend: https://github.com/carrubbasamuel/Jecko_be
+###Link al Frontend: https://github.com/carrubbasamuel/Jecko_fe
 
 ### Deploy del sito: https://jecko.netlify.app
 
