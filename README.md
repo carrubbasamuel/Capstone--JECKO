@@ -10,8 +10,7 @@ Il progetto è un'applicazione web sviluppata con React, Redux Toolkit, Bootstra
 di geolocalizzare gli utenti e mostrare i campi pubblici di basket nelle vicinanze. 
 Gli utenti possono creare eventi su questi campi, rappresentati da bandierine sulla 
 mappa, dove possono organizzare partite in un determinato periodo di tempo. Altri 
-utenti possono unirsi agli eventi fino a raggiungere un numero limite di partecipanti, a 
-seconda dello sport. Inoltre, una chat di gruppo sarà generata automaticamente per gli 
+utenti possono unirsi agli eventi. Inoltre, una chat di gruppo sarà generata automaticamente per gli 
 utenti partecipanti agli eventi, consentendo loro di organizzarsi e discutere i dettagli 
 dell'evento, come chi porterà il pallone...
 ## Funzionalità Principali:
@@ -47,7 +46,7 @@ gestione dello stato, garantendo un flusso dati coerente.
 garantendo un aspetto moderno e responsive.
 
 • Back-end: Express.js gestisce le richieste degli utenti, gestisce le operazioni 
-CRUD per gli eventi e le chat, e si occupa dell'autenticazione e dell'autorizzazione 
+CRUD per gli utenti gli eventi e le chat, e si occupa dell'autenticazione e dell'autorizzazione 
 degli utenti.
 
 • Database: MongoDB è utilizzato per l'archiviazione dei dati, consentendo una 
