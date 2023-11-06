@@ -1,9 +1,5 @@
 JECKO
-
-## Link al Backend: https://github.com/carrubbasamuel/Jecko_be
-## Link al Frontend: https://github.com/carrubbasamuel/Jecko_fe
-
-### Deploy del sito: https://jecko.netlify.app
+### https://jecko.netlify.app
 
 ## Presentazione del Progetto:
 Il progetto è un'applicazione web sviluppata con React, Redux Toolkit, Bootstrap (frontend) e Express con MongoDB (back-end). L'obiettivo principale è creare un'app in grado 
@@ -60,6 +56,9 @@ immagini utente e dei campetti.
 
 • Mappe e Geolocalizzazione: L'applicazione sfrutta le Google Maps API per 
 geolocalizzare gli utenti e visualizzare i campi sportivi sulla mappa con marcatori 
+
+## Link al Backend: https://github.com/carrubbasamuel/Jecko_be
+## Link al Frontend: https://github.com/carrubbasamuel/Jecko_fe
 interattivi.
 
 Questo progetto è progettato per offrire agli appassionati di sport un modo coinvolgente 
